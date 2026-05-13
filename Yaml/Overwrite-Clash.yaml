@@ -59,7 +59,7 @@ proxy-groups:
   - {name: DisneyPlus,     <<: *SelectSG,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/Disney_plus.png"}
   - {name: HBO,            <<: *SelectSG,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/HBO_MAX.png"}
   - {name: PrimeVideo,     <<: *SelectSG,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/Prime.png"}
-  - {name: Emby,           <<: *SelectSG,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large(
+  - {name: Emby,           <<: *SelectSG,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/Emby.png"}
   - {name: Spotify,        <<: *SelectHK,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/Spotify.png"}
   - {name: Bahamut,        <<: *SelectTW,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/Bahamut_i.png"}
   - {name: 国外媒体,        <<: *SelectSG,                                 icon: "https://v6.gh-proxy.org/https://raw.githubusercontent.com//Giveupmoon/Clash_Rules_Yaml/main/Icon/HOMOMIX/Color/Large/Network.png"}
